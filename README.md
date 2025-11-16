@@ -1,4 +1,4 @@
-#📄 Marksheet-ocr-analyzer
+📄 Marksheet-ocr-analyzer
 
 
 An AI-driven application that extracts, analyzes and evaluates marksheet data from scanned images or PDF documents. The system uses OpenCV, PyTesseract and OCR pipelines to detect text, numbers, symbols and structured tabular data. It automatically processes the uploaded marksheet and generates a clean, formatted analysis including total marks, percentage, grade and subject-wise scores.
